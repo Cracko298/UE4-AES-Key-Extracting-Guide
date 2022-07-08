@@ -18,7 +18,7 @@
 
 # Step 1 (Getting rid of the DRM restriction):
 - Firstly open/run [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) to get rid of the DRM restrictions on your *Shipping.exe* file.
-- Too access your *Shipping.exe* file(s) go into "Steam > Library > *Your Game*". Right click on *Your Game's Name* and go into "Manage > Browse Locale Files"
+- Too access your *Shipping.exe* file(s) go into "[Steam](https://store.steampowered.com/) > Library > *Your Game*". Right click on *Your Game's Name* and go into "Manage > Browse Locale Files"
 - The file explorer should have opened *probably in the background*. Go into "*Your Game Name Folder* > Binaries > Win64/32".
 - Paste the directory link into [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0), or find the *Shipping.exe* directory in the "browse" button.
 - Hit the extract button in [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) it'll take a few second(s)/minute(s).
@@ -29,4 +29,9 @@
 - Take the newly created *DRM-LESS Shipping.exe* file and copy it into the [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) folder which you extracted from the *AES.Key.Finder.zip* file.
 - Open/run the *.bat* file called *RUN Find 256-bit UE4 AES Key.bat* this will find all keys it can recover from the DRM-LESS *Shipping.exe*.
 - After the *RUN Find 256-bit UE4 AES Key.bat* file has ran. Their should be 1-6 folders. Only one of them contains the AES-256 key.
-- The folders are just a few bits/bytes of the key. The file name inside of the folder *IS* the AES-256 key.
+- The folder(s) are just a few bits/bytes of the key. The file name inside of the folder *IS* the AES-256 key.
+
+# Step 3 (Extracting the Encrypted *.pak* file):
+- Last of all you'll need [UEViewer/Umodel](https://www.gildor.org/en/projects/umodel#files) to extract/save the game's file(s).
+- As always extract the *.zip* and open/run the application. For simplicity we'll copy the *.pok* file to the newly extract *Umodel* folder.
+- Too access your game in [Steam](https://store.steampowered.com/) *again if you closed it* go to "[Steam](https://store.steampowered.com/) > Library > Your Game > Right Click Name > Manage > Browse Locale Files".
