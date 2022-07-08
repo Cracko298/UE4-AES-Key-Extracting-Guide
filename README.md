@@ -28,7 +28,7 @@
 - Secondly you'll need the [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) to find the AES-256 Keys.
 - Take the newly created *DRM-LESS Shipping.exe* file and copy it into the [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) folder which you extracted from the *AES.Key.Finder.zip* file.
 - Open/run the *.bat* file called *RUN Find 256-bit UE4 AES Key.bat* this will find all keys it can recover from the DRM-LESS *Shipping.exe*.
-- After the *RUN Find 256-bit UE4 AES Key**.bat* file has ran. Their should be 1-6 folders. Only one of them contains the AES-256 key.
+- After the "RUN Find 256-bit UE4 AES Key.bat" file has ran. Their should be 1-6 folders. Only one of them contains the AES-256 key.
 - The folder(s) are just a few bits/bytes of the key. The file name inside of the folder *IS* the AES-256 key.
 
 # Step 3 (Extracting the Encrypted *.pak* file):
