@@ -5,7 +5,7 @@
 
 
 # Before We Begin:
-- I am *NOT* resposible for how you the keys you will find while using the guide.
+- I am *NOT* resposible for how you use the keys you will find while using this guide.
 - This was made for modding purposes *ONLY*.
 
 # Software Needed:
