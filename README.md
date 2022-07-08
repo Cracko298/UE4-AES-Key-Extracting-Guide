@@ -6,7 +6,7 @@
 
 # Before We Begin:
 - I am *NOT* resposible for how you use the keys you will find while using this guide.
-- This was made for modding purposes *ONLY*.
+- This was made in the thought of extracting files for modding purposes *ONLY*.
 
 # Software Needed:
 - [UEViewer](https://www.gildor.org/en/projects/umodel#files) - For Viewing and Extracting Files.
