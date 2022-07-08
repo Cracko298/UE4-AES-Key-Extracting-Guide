@@ -48,4 +48,5 @@
 
 # Note(s):
 - Congrats! You've completed the tutorial, and now know how to extract AES-256 Keys from [UE4](https://unreal.fandom.com/wiki/Unreal_Engine_4)/[UE5](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/) games.
-- Maybe consider giving me a [Follow](https://github.com/cracko298), or a nice Golden-Star in the top-right corner.
+- Maybe consider giving me a [Follow](https://github.com/cracko298) on GitHub, or a nice Golden-Star in the top-right corner.
+- And, Thanks too everyone who supports me, it really helps.
