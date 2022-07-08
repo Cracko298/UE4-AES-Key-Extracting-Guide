@@ -33,5 +33,19 @@
 
 # Step 3 (Extracting the Encrypted *.pak* file):
 - Last of all you'll need [UEViewer/Umodel](https://www.gildor.org/en/projects/umodel#files) to extract/save the game's file(s).
-- As always extract the *.zip* and open/run the application. For simplicity we'll copy the *.pok* file to the newly extract *Umodel* folder.
+- As always extract the *.zip* and open/run the application. For simplicity we'll copy the *.pok* file to the newly extract [Umodel](https://www.gildor.org/en/projects/umodel#files) folder.
 - Too access your game in [Steam](https://store.steampowered.com/) *again if you closed it* go to "[Steam](https://store.steampowered.com/) > Library > Your Game > Right Click Name > Manage > Browse Locale Files".
+- As normal, file explorer should start in the background. Open the new tab, and navigate to "*Your Game Name* > Content > Paks".
+- You should have at least 1 *.pak* file(s). It's normally the biggest one however, it depends on the game.
+- Copy the *.pak* file and paste it into the [Umodel](https://www.gildor.org/en/projects/umodel#files) folder.
+- Open/run [Umodel.exe](https://www.gildor.org/en/projects/umodel#files) and select all that you want to extract/save. Make sure to choose the game version.
+- You can find the game version by right clicking *Shipping.exe* and then going into "Properties > Details".
+- After you find your game version. [Umodel](https://www.gildor.org/en/projects/umodel#files) will come up with an AES-Encryption Window.
+- Paste the AES-256 Keys into the AES-Encryption Window. Adding a line for each key you would like to try.
+- If successful you've just cracked the *.pak* file security.
+- If unsuccessful, you're probably using a non-Steam *.pak* file, or you have an unsupported version of UE. (Possibly UE3, or UE2).
+
+
+# Note(s):
+- Congrats! You've completed the tutorial, and now know how to extract AES-256 Keys from [UE4](https://unreal.fandom.com/wiki/Unreal_Engine_4)/[UE5](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/) games.
+- Maybe consider giving me a [Follow](https://github.com/cracko298), or a nice Golden-Star in the top-right corner.
