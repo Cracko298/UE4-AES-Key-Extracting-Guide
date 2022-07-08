@@ -12,4 +12,4 @@
 
 # Guide:
 - Firstly use [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) to get rid of the DRM restrictions on your *Shipping.exe* file.
-- Too access your *Shipping.exe* file(s) go into "Steam > Library > *Your Game* ". Right click the name and click on 
+- Too access your *Shipping.exe* file(s) go into "Steam > Library > *Your Game*". Right click the name and click on 
