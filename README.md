@@ -1,5 +1,5 @@
 # AES-Key-Extracting-Guide
-- This tutorial will go through the steps on how toi extract an UE4/UE5 AES-256 Key.
+- This tutorial will go through the steps on how to extract an UE4/UE5 AES-256 Key.
 - And also how to use it in extracting the *.pak* file in the "contents" folder.
 - This *DOES* work with [Steam](https://store.steampowered.com/) & [Epic](https://store.epicgames.com/en-US/download) *However sometimes Epic-bought games are weird*.
 - This guide does *NOT* include a guide for [Linux](https://www.linux.org/) users, or [MacOS](https://www.apple.com/in/macos/monterey/) users.
