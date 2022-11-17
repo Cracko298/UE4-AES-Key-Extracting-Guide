@@ -48,7 +48,7 @@
 - If unsuccessful, you're probably using a non-Steam *.pak* file, or you have an unsupported version of UE. (Possibly UE3, or UE2).
 - If successful you've just cracked the *.pak* file.
 - Only works with *Win32* and *Win64* executables, (*.exe* Only. ***Not*** *.msi*, *.com*, *.bat*, or  *.cmd*).
-- This guide does ***NOT*** work for *MacOS* or *Linux* games. That also include *Nintendo Switch*, *Playstation Consoles*, and *Xbox Consoles*, (Obviously).
+- This guide does ***NOT*** work for *MacOS* or *Linux* games. That also includes *Nintendo Switch*, *Playstation Consoles*, and *Xbox Consoles*, (Obviously).
 
 # Credits:
 - Congrats! You've completed the tutorial, and now know how to extract AES-256 Keys from [UE4](https://unreal.fandom.com/wiki/Unreal_Engine_4)/[UE5](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/) games.
