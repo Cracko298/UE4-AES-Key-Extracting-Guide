@@ -47,7 +47,7 @@
 - If you ***NEED*** the game version. *Right-Click* the original *Shipping.exe* and navigate to: *Properties > Details > File Version* that's your game version.
 - If unsuccessful, you're probably using a non-Steam *.pak* file, or you have an unsupported version of UE. (Possibly UE3, or UE2).
 - If successful you've just cracked the *.pak* file.
-- Only works with *Win32* and *Win64* executables, (***.exe Only*!** ***Not*** *.msi*, *.com*, *.bat*, or  *.cmd*).
+- Only works with *Win32* and *Win64* executables, (***.exe Only*!**) (***Not*** *.msi*, *.com*, *.bat*, or  *.cmd*).
 - This guide does ***NOT*** work for *MacOS* or *Linux* games. That also includes *Nintendo Switch*, *Playstation Consoles*, and *Xbox Consoles*, (Obviously).
 
 # Credits:
