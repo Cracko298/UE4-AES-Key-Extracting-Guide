@@ -42,11 +42,15 @@
 - You can find the game version by right clicking *Shipping.exe* and then going into "Properties > Details".
 - After you find your game version. [Umodel](https://www.gildor.org/en/projects/umodel#files) will come up with an AES-Encryption Window.
 - Paste the AES-256 Keys into the AES-Encryption Window. Adding a line for each key you would like to try.
-- If successful you've just cracked the *.pak* file security.
-- If unsuccessful, you're probably using a non-Steam *.pak* file, or you have an unsupported version of UE. (Possibly UE3, or UE2).
-
 
 # Note(s):
+- If you ***NEED*** the game version. *Right-Click* the original *Shipping.exe* and navigate to: *Properties > Details > File Version* that's your game version.
+- If unsuccessful, you're probably using a non-Steam *.pak* file, or you have an unsupported version of UE. (Possibly UE3, or UE2).
+- If successful you've just cracked the *.pak* file.
+- Only works with *Win32* and *Win64* executables, (*.exe* Only. ***Not*** *.msi*, *.com*, *.bat*, or  *.cmd*).
+- This guide does ***NOT*** work for *MacOS* or *Linux* games. That also include *Nintendo Switch*, *Playstation Consoles*, and *Xbox Consoles*, (Obviously).
+
+# Credits:
 - Congrats! You've completed the tutorial, and now know how to extract AES-256 Keys from [UE4](https://unreal.fandom.com/wiki/Unreal_Engine_4)/[UE5](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/) games.
-- Maybe consider giving me a [Follow](https://github.com/cracko298) on GitHub, or a nice Golden-Star in the top-right corner.
-- And, Thanks too everyone who supports me, it really helps. - Cracko298 (Phinehas Beresford)
+- Maybe consider giving me a [Follow](https://github.com/cracko298), possibly a [Golden-Star](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/stargazers) or even a [Fork](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/fork). Anything helps out!
+- And, Thanks too everyone who supports me, it really helps. - [Cracko298 (Phinehas Beresford)](https://github.com/Cracko298)
