@@ -56,9 +56,9 @@
 - Maybe consider giving me a [Follow](https://github.com/cracko298), possibly a [Golden-Star](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/stargazers) or even a [Fork](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/fork). Anything helps out!
 - And, Thanks too everyone who supports me, it really helps. - [Cracko298 (Phinehas Beresford)](https://github.com/Cracko298)
 
-# Software Credits:
-- [UEViewer](https://www.gildor.org/en/projects/umodel#files) - [Glidor](https://github.com/gildor2)
-- [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) - [Atom0s](https://github.com/atom0s)
-- [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) - [GHFear](https://github.com/GHFear)
-- [UE4 Mod Unlocker](https://illusory.dev/) - [GHFear](https://github.com/GHFear)
-- [FModel](https://fmodel.app/) - [4sval](https://github.com/4sval)
+# Software:
+- [UEViewer](https://www.gildor.org/en/projects/umodel#files) - Made By: [Glidor](https://github.com/gildor2)
+- [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) - Made By: [Atom0s](https://github.com/atom0s)
+- [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) - Made By: [GHFear](https://github.com/GHFear)
+- [UE4 Mod Unlocker](https://illusory.dev/) - Made By: [GHFear](https://github.com/GHFear)
+- [FModel](https://fmodel.app/) - Made By: [4sval](https://github.com/4sval)
