@@ -55,3 +55,10 @@
 - Congrats! You've completed the tutorial, and now know how to extract AES-256 Keys from [UE4](https://unreal.fandom.com/wiki/Unreal_Engine_4)/[UE5](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/) games.
 - Maybe consider giving me a [Follow](https://github.com/cracko298), possibly a [Golden-Star](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/stargazers) or even a [Fork](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/fork). Anything helps out!
 - And, Thanks too everyone who supports me, it really helps. - [Cracko298 (Phinehas Beresford)](https://github.com/Cracko298)
+
+# Software Credits:
+- [UEViewer](https://www.gildor.org/en/projects/umodel#files) - [Glidor](https://github.com/gildor2)
+- [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) - [Atom0s](https://github.com/atom0s)
+- [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) - [GHFear](https://github.com/GHFear)
+- [UE4 Mod Unlocker](https://illusory.dev/) - [GHFear](https://github.com/GHFear)
+- [FModel](https://fmodel.app/) - [4sval](https://github.com/4sval)
