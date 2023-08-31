@@ -55,7 +55,7 @@
 - Congrats! You've completed the tutorial, and now know how to extract AES-256 Keys from [UE4](https://unreal.fandom.com/wiki/Unreal_Engine_4)/[UE5](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/) games.
 - Maybe consider giving me a [Follow](https://github.com/cracko298), possibly a [Golden-Star](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/stargazers) or even a [Fork](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/fork). Anything helps out!
 - And, Thanks too everyone who supports me, it really helps. - [Cracko298 (Phinehas Beresford)](https://github.com/Cracko298)
-- Hey! I made a new this for UE4 games. This time, it isn't a guide. [UE4-FOV-Editor](https://github.com/Cracko298/UE4-FOV-Editor).
+- Hey! I made a new thing for UE4 games. This time, it isn't a guide. [UE4-FOV-Editor](https://github.com/Cracko298/UE4-FOV-Editor). ***Note: This ain't revolutionary.***
 
 # Software:
 - [Glidor](https://github.com/gildor2) for The UE4 viewing and extracting tool UEViewer.
