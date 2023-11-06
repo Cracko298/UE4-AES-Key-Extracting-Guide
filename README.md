@@ -61,7 +61,7 @@
 
 ### Extra Notes:
 - I accept donations if you want to help me out (No need too, this guide will ALWAYS be avaliable for free). This is via [PayPal](https://www.paypal.me/cracko298) if you want to donate.
-- All software mention lead to the original repo's please consider supporting those developers.
+- All software mentioned in this guide lead to the original repo's please consider supporting those developers.
 
 # Software:
 - [Glidor](https://github.com/gildor2) for The UE4 viewing and extracting tool UEViewer.
