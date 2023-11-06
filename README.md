@@ -1,3 +1,5 @@
+[![paypal](https://github.com/Cracko298/ISZ-2021-Plugin/blob/main/payp.png)](https://www.paypal.me/cracko298)
+
 # AES-Key-Extracting-Guide
 - This tutorial will go through the steps on how to extract an UE4/UE5 AES-256 Key.
 - And also how to use it in extracting the *.pak* file in the "contents" folder.
@@ -56,6 +58,10 @@
 - Maybe consider giving me a [Follow](https://github.com/cracko298), possibly a [Golden-Star](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/stargazers) or even a [Fork](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide/fork). Anything helps out!
 - And, Thanks too everyone who supports me, it really helps. - [Cracko298 (Phinehas Beresford)](https://github.com/Cracko298)
 - Hey! I made a new thing for UE4 games. This time, it isn't a guide. [UE4-FOV-Editor](https://github.com/Cracko298/UE4-FOV-Editor). ***Note: This ain't revolutionary.***
+
+### Extra Notes:
+- I accept donations if you want to help me out (No need too, this guide will ALWAYS be avaliable for free). This is via [PayPal](https://www.paypal.me/cracko298) if you want to donate.
+- All software mention lead to the original repo's please consider supporting those developers.
 
 # Software:
 - [Glidor](https://github.com/gildor2) for The UE4 viewing and extracting tool UEViewer.
