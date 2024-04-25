@@ -13,7 +13,7 @@
 # Software Needed:
 - [UEViewer](https://www.gildor.org/en/projects/umodel#files) - For Viewing and Extracting Files.
 - [Steamless](https://github.com/atom0s/Steamless/releases/tag/v3.1.0.0) - For Removing the SteamStub/Steam DRM Restrictions on the *Shipping.exe*.
-- [AES Key Finder](https://github.com/Cracko298/AES-Key-Extracting-Guide/files/9074659/AES.Key.Finder.zip) - For Finding AES Keys in the DRM-less *Shipping.exe*.
+- [AES Key Finder](https://github.com/GHFear/AESKeyFinder-By-GHFear) - For Finding AES Keys in the DRM-less *Shipping.exe*.
 - [FModel](https://fmodel.app/) - You can use this too mod and view Assets your Games. (However I will not go into detail on this *arguably better than Umodel).
 - [UE4 Mod Unlocker](https://illusory.dev/).
 
@@ -36,8 +36,8 @@
 
 # Step 3 (Extracting the Encrypted *.pak* file):
 - Last of all you'll need [UEViewer/Umodel](https://www.gildor.org/en/projects/umodel#files) to extract/save the game's file(s).
-- As always extract the *.zip* and open/run the application. For simplicity we'll copy the *.pok* file to the newly extract [Umodel](https://www.gildor.org/en/projects/umodel#files) folder.
-- Too access your game in [Steam](https://store.steampowered.com/) *again if you closed it* go to "[Steam](https://store.steampowered.com/) > Library > Your Game > Right Click Name > Manage > Browse Locale Files".
+- As always extract the *.zip* and open/run the application. For simplicity we'll copy the *.pak* file to the newly extract [Umodel](https://www.gildor.org/en/projects/umodel#files) folder.
+- To access your game in [Steam](https://store.steampowered.com/) *again if you closed it* go to "[Steam](https://store.steampowered.com/) > Library > Your Game > Right Click Name > Manage > Browse Locale Files".
 - As normal, file explorer should start in the background. Open the new tab, and navigate to "*Your Game Name* > Content > Paks".
 - You should have at least 1 *.pak* file(s). It's normally the biggest one however, it depends on the game.
 - Copy the *.pak* file and paste it into the [Umodel](https://www.gildor.org/en/projects/umodel#files) folder.
